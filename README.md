@@ -14,7 +14,6 @@ Pertama kita akan menjalankan perintah yang palih dasar yaitu 'print( )', untuk 
 
 Lalu hasil outputnya akan menghasilkan kata yang diketik.
 
-![image](https://user-images.githubusercontent.com/115516820/196467593-c2d60a75-9dd0-4df1-80da-6b941088a0cf.png)
 
 # Latihan 2 
 
