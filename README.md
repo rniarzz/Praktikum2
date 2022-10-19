@@ -1,6 +1,6 @@
-Nama: Alif Nur Fathlii Amarta
+Nama: Rini Ariza
 
-NIM: 312210326
+NIM: 312210337
 
 Kelas: TI.22.A3
 
@@ -19,20 +19,17 @@ Lalu hasil outputnya akan menghasilkan kata yang diketik.
 # Latihan 2 
 
 Setelah itu kita akan pengoperasian angka contoh nya penjumlahan.
+Pertama masukkan angka terlebih dulu. 
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/115542704/196727414-23072469-d6d1-4dd4-a4a9-e297378ab238.png)
 
-Pertama masukkan angka terlebih dulu. 
-
-
-
 lalu gunakan perintah print
 
-![image](https://user-images.githubusercontent.com/115516820/196470712-77fc2483-c842-4188-921c-7b0be87ecfa4.png)
+![Screenshot (86)](https://user-images.githubusercontent.com/115542704/196728296-f6085a4a-c7a2-48f4-b8c5-4aba7132c795.png)
 
 Hasilnya:
 
-![image](https://user-images.githubusercontent.com/115516820/196472277-5db856ab-1a2a-4743-9203-f28819937da4.png)
+![Screenshot (87)](https://user-images.githubusercontent.com/115542704/196728361-2ab8e64f-7171-4dc4-ab1a-195b92d562b2.png)
 
 # Latihan 3
 
