@@ -10,7 +10,7 @@ Kelas: TI.22.A3
 
 Pertama kita akan menjalankan perintah yang palih dasar yaitu 'print( )', untuk string gunakan tanda pentik seperti 'print(" ")'.
 
-![image](https://user-images.githubusercontent.com/115516820/196467092-3a5448de-6bfe-4e84-8ef8-dfd6274cd19d.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/115542704/196693738-0bf97fbc-51eb-4f0a-8f21-dfeb517728ce.png)
 
 Lalu hasil outputnya akan menghasilkan kata yang diketik.
 
