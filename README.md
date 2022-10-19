@@ -20,9 +20,11 @@ Lalu hasil outputnya akan menghasilkan kata yang diketik.
 
 Setelah itu kita akan pengoperasian angka contoh nya penjumlahan.
 
+![Screenshot (85)](https://user-images.githubusercontent.com/115542704/196727414-23072469-d6d1-4dd4-a4a9-e297378ab238.png)
+
 Pertama masukkan angka terlebih dulu. 
 
-![image](https://user-images.githubusercontent.com/115516820/196470091-6595f434-1597-43cb-8a19-27ef7deab0ff.png)
+
 
 lalu gunakan perintah print
 
