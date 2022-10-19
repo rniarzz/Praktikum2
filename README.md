@@ -2,9 +2,7 @@ Nama: Rini Ariza
 
 NIM: 312210337
 
-Kelas: TI.22.A3
-
-# Latihan Bahasa Pemograman menggunakan Python 
+Kelas: TI.22.A3 
 
 # Latihan 1
 
