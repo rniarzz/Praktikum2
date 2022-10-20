@@ -6,7 +6,7 @@ Kelas: TI.22.A3
 
 # Latihan 1
 
-Pertama kita akan menjalankan perintah yang palih dasar yaitu 'print( )', untuk string gunakan tanda pentik seperti 'print(" ")'.
+Pertama kita akan menjalankan perintah yang pilih dasar yaitu 'print( )', untuk string gunakan tanda pentik seperti 'print(" ")'.
 
 ![Screenshot (68)](https://user-images.githubusercontent.com/115542704/196693738-0bf97fbc-51eb-4f0a-8f21-dfeb517728ce.png)
 
@@ -16,7 +16,7 @@ Lalu hasil outputnya akan menghasilkan kata yang diketik.
 
 # Latihan 2 
 
-Setelah itu kita akan pengoperasian angka contoh nya penjumlahan.
+Setelah itu kita akan mengoperasikan angka contoh nya penjumlahan.
 Pertama masukkan angka terlebih dulu. 
 
 ![Screenshot (85)](https://user-images.githubusercontent.com/115542704/196727414-23072469-d6d1-4dd4-a4a9-e297378ab238.png)
@@ -43,7 +43,7 @@ lalu konversi kan variable nya menjadi angka integer, dengan perintah 'int( )'
 
 print hasil operasi kedua variable dengan string format 
 
-![image](https://user-images.githubusercontent.com/115516820/196479369-2c30fe8f-659f-4452-937b-4a48d6666170.png)
+![Screenshot (106)](https://user-images.githubusercontent.com/115542704/196961559-d57cc82b-8447-4998-a6af-d65254231791.png)
 
 masukan hasil nilai A dan B 
 
