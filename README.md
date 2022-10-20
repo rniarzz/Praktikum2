@@ -45,5 +45,7 @@ print hasil operasi kedua variable dengan string format
 
 ![image](https://user-images.githubusercontent.com/115516820/196479369-2c30fe8f-659f-4452-937b-4a48d6666170.png)
 
+masukan hasil nilai A dan B 
+
 format digunakan untuk menggabungkan variable ke string. operator '%' selain digunakan untuk string formatting, operator ini juga digunakan untuk menghitung operasi 'sisa bagi'
 
