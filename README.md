@@ -35,7 +35,7 @@ Kita akan mempelajari input,konversi nilai variable,format
 
 Python juga mempunyai fungsi 'input( )' cara penggunaannya adalah
 
-![image](https://user-images.githubusercontent.com/115516820/196474042-c376a90a-640c-4e2f-b335-adfd38c61196.png)
+![Screenshot (97)](https://user-images.githubusercontent.com/115542704/196857548-503c67e1-b6b1-457d-8090-3e0e9740916e.png)
 
 lalu konversi kan variable nya menjadi angka integer, dengan perintah 'int( )'
 
@@ -47,5 +47,3 @@ print hasil operasi kedua variable dengan string format
 
 format digunakan untuk menggabungkan variable ke string. operator '%' selain digunakan untuk string formatting, operator ini juga digunakan untuk menghitung operasi 'sisa bagi'
 
-
-Sekian dari saya, Jika ada yang salah mohon dimaafkan
