@@ -51,4 +51,4 @@ masukan hasil nilai A dan B
 
 format digunakan untuk menggabungkan variable ke string. operator '%' selain digunakan untuk string formatting, operator ini juga digunakan untuk menghitung operasi 'sisa bagi'
 
-# Sekian tutorial terimakasih
+# Sekian Tutorial Terimakasih
