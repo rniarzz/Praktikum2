@@ -4,7 +4,7 @@ print("Saya Belajar Python")
 a = 240
 b = 77
 print("variable a = " , a)
-print("variable a = " , b)
+print("variable b = " , b)
 print("hasil perjumlahan a + b = " , a + b)
 
 # input nilai variable
