@@ -19,7 +19,7 @@ Lalu hasil outputnya akan menghasilkan kata yang diketik.
 Setelah itu kita akan mengoperasikan angka contoh nya penjumlahan.
 Pertama masukkan angka terlebih dulu. 
 
-![Screenshot (85)](https://user-images.githubusercontent.com/115542704/196727414-23072469-d6d1-4dd4-a4a9-e297378ab238.png)
+<img width="167" alt="Screnshoot (108)" src="https://user-images.githubusercontent.com/115542704/197110039-d3fd4f18-b6f7-42b5-abd9-3a4603a09343.png">
 
 lalu gunakan perintah print
 
@@ -27,7 +27,7 @@ lalu gunakan perintah print
 
 Hasilnya:
 
-![Screenshot (87)](https://user-images.githubusercontent.com/115542704/196728361-2ab8e64f-7171-4dc4-ab1a-195b92d562b2.png)
+<img width="206" alt="Screenshoot (109)" src="https://user-images.githubusercontent.com/115542704/197110088-376abe42-319d-4d0c-ac0c-a756fa4849bd.png">
 
 # Latihan 3
 
